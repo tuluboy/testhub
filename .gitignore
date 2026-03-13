@@ -1,1 +1,3 @@
-Nothing needs to be added to .gitignore since only a markdown file (requirements_analysis.md) was added, which is a source/config file and should not be ignored.
+# No changes needed - only source/config files detected
+
+technical_design.md appears to be a source document, so no files in the changeset require gitignore rules.
